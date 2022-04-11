@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "region": "ncr",
+      "cases": 115906,
+      "recovered": 75658,
+      "deaths": 1553
+    },
+    {
+      "region": "region iv-a: calabarzon",
+      "cases": 30489,
+      "recovered": 17281,
+      "deaths": 282
+    },
+    {
+      "region": "region vii: central visayas",
+      "cases": 19367,
+      "recovered": 16430,
+      "deaths": 1017
+    },
+    {
+      "region": "repatriate",
+      "cases": 9380,
+      "recovered": 6667,
+      "deaths": 17
+    },
+    {
+      "region": "region iii: central luzon",
+      "cases": 7743,
+      "recovered": 3852,
+      "deaths": 97
+    },
+    {
+      "region": "region vi: western visayas",
+      "cases": 4767,
+      "recovered": 1887,
+      "deaths": 51
+    },
+    {
+      "region": "region viii: eastern visayas",
+      "cases": 2453,
+      "recovered": 1399,
+      "deaths": 8
+    },
+    {
+      "region": "region xi: davao region",
+      "cases": 2064,
+      "recovered": 1567,
+      "deaths": 57
+    },
+    {
+      "region": "region v: bicol region",
+      "cases": 1496,
+      "recovered": 772,
+      "deaths": 22
+    },
+    {
+      "region": "region ix: zamboanga peninsula",
+      "cases": 1442,
+      "recovered": 910,
+      "deaths": 44
+    },
+    {
+      "region": "region x: northern mindanao",
+      "cases": 1388,
+      "recovered": 765,
+      "deaths": 17
+    },
+    {
+      "region": "region i: ilocos region",
+      "cases": 1070,
+      "recovered": 611,
+      "deaths": 26
+    },
+    {
+      "region": "car",
+      "cases": 794,
+      "recovered": 373,
+      "deaths": 9
+    },
+    {
+      "region": "region ii: cagayan valley",
+      "cases": 746,
+      "recovered": 487,
+      "deaths": 4
+    },
+    {
+      "region": "region iv-b: mimaropa",
+      "cases": 666,
+      "recovered": 405,
+      "deaths": 7
+    },
+    {
+      "region": "barmm",
+      "cases": 638,
+      "recovered": 457,
+      "deaths": 11
+    },
+    {
+      "region": "region xii: soccsksargen",
+      "cases": 609,
+      "recovered": 431,
+      "deaths": 4
+    },
+    {
+      "region": "caraga",
+      "cases": 490,
+      "recovered": 298,
+      "deaths": 4
+    }
+  ],
+  "last_update": "8/28/2020, 1:46:58 AM"
+}
